@@ -1,6 +1,9 @@
+[Adblock Plus 2.0]
+
 ! Title: hiworkmode-simple_ad_block
 ! Description: Egyedi reklám- és nyomkövető blokkoló szabályok
 ! Version: 1.0.0
 ! Last modified: 2026-09-22 12:55:00
+
 www.netrejtveny.hu##div#facebook
 www.netrejtveny.hu##div.grecaptcha-badge
