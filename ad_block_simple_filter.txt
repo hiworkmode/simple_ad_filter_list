@@ -8,3 +8,5 @@
 ! www.netrejtveny.hu##div#facebook
 ! www.netrejtveny.hu##div.grecaptcha-badge
 jobbmintatv.pro##div.ntadbnnrszone
+jobbmintatv.pro##div#ad_d_970x250_1
+jobbmintatv.pro##div#ad_d_970x250_2
